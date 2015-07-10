@@ -1,0 +1,11 @@
+{
+  "name": "duotoner",
+  "version": "1.0.0",
+  "description": "duotone your images bro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelle Connolly <kelle.connolly@gmail.com>",
+  "license": "ISC"
+}
