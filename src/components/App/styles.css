@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box
+}
+
+*,:after,:before {
+    box-sizing: inherit
+}
+
+body {
+    background: #fff;
+    margin: 0;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #4A4A4A
+}
