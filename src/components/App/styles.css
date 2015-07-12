@@ -14,3 +14,20 @@ body {
     font-size: 13px;
     color: #4A4A4A
 }
+
+.App {
+  max-width: 1250px;
+  margin: 0 auto;
+}
+
+.App_preview {
+  float: left;
+  width: 800px;
+}
+
+.App_controls {
+  width: 450px;
+  float: left;
+  padding: 20px;
+}
+
