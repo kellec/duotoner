@@ -26,6 +26,7 @@
     "postcss-nested": "^0.3.2",
     "postcss-simple-vars": "^0.3.0",
     "react": "^0.13.1",
+    "react-color-picker": "^2.1.9",
     "style-loader": "^0.12.2",
     "webpack": "^1.10.1"
   }
