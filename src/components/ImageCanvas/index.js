@@ -73,6 +73,7 @@ export default React.createClass({
     context.clearRect(0, 0, width, height);
 
     this.clearCanvas(context);
+    this.prepImage(this.props.image);
     this.addImageToCanvas(context, image);
     this.filterImage(image, context);
   },
